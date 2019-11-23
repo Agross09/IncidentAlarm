@@ -4,11 +4,14 @@ Basic incident alarm that analyzes live streams of packets off an interface and 
 ### Usage: 
 `alarm.py [-h] [-i INTERFACE] [-r PCAPFILE]`
 
-### Options
-`-i INTERFACE: Sniff on a specified network interface`
-`-r PCAPFILE: Read in a PCAP file`
-`-h: Display message on how to use tool`
+### Options:
+`-i INTERFACE: Sniff on a specified network interface`  
+
+`-r PCAPFILE: Read in a PCAP file`  
+
+`-h: Display message on how to use tool`  
 
 ### Building:
-`pip install -r requirements.txt` 
+`pip install -r requirements.txt`  
+
 See requirements.txt for required pip packages.

@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 ###############################################################################
 # Andrew Gross
-# COMP 116 - Fall 2019
+# COMP 116 - Fall 2019 - Ming Chow
 # alarm.py
 #
 # USAGE: alarm.py [-h] [-i INTERFACE] [-r PCAPFILE]
